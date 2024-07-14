@@ -4,8 +4,7 @@ import { MongoClient } from "mongodb";
 import Dotenv from "dotenv";
 import { get } from "mongoose";
 
-
-// app.js
+//Sandbox for futzing with api stuff. 
 
 const app = express();
 const PORT = process.env.PORT || 3000;
